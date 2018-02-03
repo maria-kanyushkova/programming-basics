@@ -1,2 +1,1 @@
-# programming-basics
-pascal course
+## Основы программирования на Pascal 
