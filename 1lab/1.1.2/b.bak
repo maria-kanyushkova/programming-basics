@@ -1,0 +1,4 @@
+PROGRAM OptionsAngels(INPUT, OUTPUT);
+BEGIN {OptionsAngels}
+  WRITELN('ANGELS CAN BE HEARD ON HIGH')
+END. {OptionsAngels}

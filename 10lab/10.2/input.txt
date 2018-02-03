@@ -1,0 +1,1 @@
+BEGIN READLn1 := BEGINEND; ENDB := 'nm''nhdfb'; Ch1 := 's'  END.

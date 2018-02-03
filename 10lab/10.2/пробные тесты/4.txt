@@ -1,0 +1,2 @@
+BEGIN WRITE(3);;;;;;; END.
+

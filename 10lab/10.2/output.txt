@@ -1,0 +1,5 @@
+BEGIN
+  READLN
+ ::=  BEGINEND
+ ENDB ::=  'nm''nhdfb'
+ Ch1 ::=  's' ND.

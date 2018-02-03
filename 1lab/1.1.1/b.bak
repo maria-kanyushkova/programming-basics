@@ -1,0 +1,4 @@
+PROGRAM PrintSantaClaus(INPUT, OUTPUT);
+BEGIN {PrintSantaClaus}
+  WRITELEN('Santa Claus')
+END. {PrintSantaClaus}

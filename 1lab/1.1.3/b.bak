@@ -1,0 +1,4 @@
+PROGRAM PrintGerman(INPUT, OUTPUT);
+BEGIN {PrintGerman}
+  WRITELN('GUTEN TAG')
+END. {PrintGerman}

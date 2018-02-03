@@ -1,0 +1,4 @@
+PROGRAM PrintCarName(INPUT, OUTPUT);
+BEGIN {PrintCarName}
+  WRITELN('À¿ƒ¿')
+END. {PrintCarName}

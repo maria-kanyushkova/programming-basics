@@ -1,0 +1,5 @@
+BEGIN
+  READLn1 := BEGUINEND;
+  ENDB := ' myStr''mysecondStr';
+  Ch1 := S
+END.

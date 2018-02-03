@@ -1,0 +1,2 @@
+BEGIN READ(Ch1); WRITE(Ch1  ,     ' myStr''m   END.   ysecondStr') END   .
+

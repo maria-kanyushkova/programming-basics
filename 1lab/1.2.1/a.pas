@@ -1,0 +1,12 @@
+PROGRAM PrintPoem(INPUT, OUTPUT);
+BEGIN {PrintPoem}
+  WRITE('ROSES ARE ');
+  WRITELN('RED, ');
+  WRITE('VIOL');
+  WRITE('ETS ARE');
+  WRITELN(' BLUE, ');
+  WRITE('OTHERS CAN PR');
+  WRITELN('OGRAM, ');
+  WRITE('SO CAN');
+  WRITELN(' YOU. ')
+END. {PrintPoem}
